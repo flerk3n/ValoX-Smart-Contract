@@ -11,7 +11,7 @@ export function TabsDemo() {
       value: "product",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-valograde">
-          <p className='font-valo'>Dulex Tab</p>
+          <p className='font-valo'>Dulexe Collection</p>
           <DummyContentOne />
         </div>
       ),
@@ -21,7 +21,7 @@ export function TabsDemo() {
       value: "services",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-valograde">
-          <p className='font-valo'>Exclusive tab</p>
+          <p className='font-valo'>Exclusive Collection</p>
           <DummyContentTwo />
         </div>
       ),
@@ -31,7 +31,7 @@ export function TabsDemo() {
       value: "playground",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-valograde">
-          <p className='font-valo'>Premium tab</p>
+          <p className='font-valo'>Premium Collection</p>
           <DummyContentThree />
         </div>
       ),
@@ -39,7 +39,7 @@ export function TabsDemo() {
   ];
 
   return (
-    <div className="h-[22rem] md:h-[48rem] [perspective:1000px] relative flex flex-col max-w-5xl mx-auto w-full items-start justify-start my-40 bottom-40">
+    <div className="h-[32rem] md:h-[52rem] [perspective:1000px] relative flex flex-col   mx-auto w-full items-start  justify-start my-40 bottom-40">
       <Tabs tabs={tabs} />
     </div>
   );

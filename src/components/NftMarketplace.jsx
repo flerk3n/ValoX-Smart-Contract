@@ -56,8 +56,8 @@ const NftMarketplace = () => {
 
             {/* Section: File Types */}
             <div className='flex flex-col text-white gap-4 mt-8'>
-              <h1 className='text-4xl font-valo'>Image, Video, Audio, or 3D Model</h1>
-              <h2 className='text-lg font-alata'>File types supported: JPG, PNG, GIF, SVG, MP4, WEBM, MP3, WAV, OGG, GLB, GLTF. Max size: 100 MB.</h2>
+              <h1 className='text-4xl font-valo'>Valorant Skin </h1>
+              <h2 className='text-lg font-alata'>File types supported: JPG, PNG. Max size: 100 MB.</h2>
               <hr className='w-full border-gray-500' />
             </div>
 
@@ -98,7 +98,7 @@ const NftMarketplace = () => {
 
                 <h1 className="text-3xl font-bold text-white mb-4">Choose Collection</h1>
                 <h2 className="text-lg text-gray-300 mb-8">
-                  Choose an existing collection or create a new one
+                  Choose an existing collection.
                 </h2>
 
                 {/* Card section */}
