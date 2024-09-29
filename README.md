@@ -33,6 +33,10 @@
 
 **ValoX** is an innovative NFT marketplace designed specifically for Valorant players, allowing them to buy, sell, and trade in-game skins as non-fungible tokens (NFTs). By leveraging the NeoX blockchain, ValoX provides a secure, decentralized platform that enhances the gaming experience and offers real-world value to in-game assets.
 
+## Video
+
+Here is our Video Link for the overview https://drive.google.com/file/d/1ZBHdGVFeVh8bcp3cwOACKBT-dVNuoKin/view?usp=sharing
+
 *Presented by Harsh and Divv for the Neo X Grind Hackathon - Rise In Edition.*
 
 ---
