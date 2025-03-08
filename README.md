@@ -43,7 +43,7 @@ Here is our Video Link for the overview https://drive.google.com/file/d/1ZBHdGVF
 
 ## Key Features
 
-### Minimalistic User Interface
+### Minimal User Interface
 - **User-Friendly Design:** Easy navigation tailored for gamers.
 - **Responsive Layout:** Optimized for desktops, tablets, and mobile devices.
 
